@@ -25,4 +25,3 @@ for i, game in enumerate(games, 1):
     result += i if possible else 0
 
 print(result)
-            

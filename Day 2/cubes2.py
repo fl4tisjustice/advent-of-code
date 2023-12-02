@@ -19,4 +19,3 @@ for i, game in enumerate(games, 1):
     result += reduce(lambda x, y: x * y, minimum.values())
     
 print(result)
-            
